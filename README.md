@@ -11,3 +11,9 @@
 3.processed_data.csv 
 
 
+
+#USE GOOGLE COLLAB TO RUN ALL THE .ipynb FILES
+For each of the Google Collab files mentioned , load all the 3 data files mentioned before into the environment and install necessary packages and then run the cells.
+
+
+
