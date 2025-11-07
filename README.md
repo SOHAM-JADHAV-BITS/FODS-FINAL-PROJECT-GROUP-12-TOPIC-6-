@@ -21,7 +21,7 @@ For each of the Google Collab files mentioned , load all the 4 data files mentio
 
 #FOR THE FINAL DASHBOARD VIA STREAMLIT 
 ensure streamlit , joblib , os , and all other necessary packages like xgboost , catboost , pandas , pickle , json , datetime , subprocess , sys , sklearn or scikit-learn
-after installing these packages in a venv python environment(ie navigate to a folder venv after creating it on the desktop and bash the pip commands) add the files -:
+after installing these packages in a venv python environment(ie navigate to a folder venv after creating it on the desktop and bash the pip install commands from the cmd after navigating to the directory) add the files -:
 named :
 rf_model.pkl
 xg_model_booster.json
