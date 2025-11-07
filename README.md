@@ -28,6 +28,7 @@ xg_model_booster.json
 catboost_model.pkl
 scaler_params.json
 cat_model.cbm
+scaler.npy
 
 into the same environment or the folder venv . After following the steps -> use CMD to navigate to the current evironment  or the folder venv and activate it 
 for eg>
